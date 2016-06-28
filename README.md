@@ -1,3 +1,7 @@
 # First
-Traning projekt
-This is a training projekt.
+Traning projekt.
+First program.
+1
+2
+3
+4
